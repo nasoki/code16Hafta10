@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 0
+  m_GuidHigh: 0
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4791284409793740245
+      m_GuidHigh: 7689964907483486853
+    m_SerializedTextureGuid:
+      m_GuidLow: 14561497327486855074
+      m_GuidHigh: 6332938501036595595
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: bewd
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4761952023866632275
+      m_GuidHigh: 4783818673282059659
+    m_SerializedTextureGuid:
+      m_GuidLow: 15115321374198966481
+      m_GuidHigh: 3526888784397077353
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: charizard
+    m_Texture: {fileID: 0}
